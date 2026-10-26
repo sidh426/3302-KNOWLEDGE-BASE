@@ -1,42 +1,16 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Sports Car Knowledge Base
 ---
-## The index page
+## Welcome
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This knowledge base is a collection of notes on cars, with a focus on sports cars. My favorite brands are BMW and Porsche, and I also love JDM (Japanese domestic market) cars. I keep up with new and upcoming models, and I have a soft spot for the cars of the late 2000s and 2010s, the era I grew up in.
 
-## Editing pages
+## Why cars?
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+I've been fascinated by cars since I was a child, and today I drive a BMW 4 Series. This site is where I organize what I've learned and what I'm still curious about.
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
+## Explore
 
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
-
+- Read more [[about|about me]] and why I started this project.
+- Browse the example pages below as I replace them with real car notes:
+  - [[Example doc 01]]
