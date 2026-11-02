@@ -14,3 +14,12 @@ I've been fascinated by cars since I was a child, and today I drive a BMW 4 Seri
 - Read more [[about|about me]] and why I started this project.
 - Browse the example pages below as I replace them with real car notes:
   - [[Example doc 01]]
+
+## Main Categories
+
+- [[bmw/index|BMW]]
+- [[porsche/index|Porsche]]
+- [[jdm/index|JDM Cars]]
+- [[new-and-upcoming/index|New and Upcoming Cars]]
+- [[modern-classics/index|Modern Classics (2000s-2010s)]]
+- [[ownership-and-maintenance/index|Ownership and Maintenance]]
