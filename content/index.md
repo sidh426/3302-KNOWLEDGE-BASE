@@ -12,8 +12,7 @@ I've been fascinated by cars since I was a child, and today I drive a BMW 4 Seri
 ## Explore
 
 - Read more [[about|about me]] and why I started this project.
-- Browse the example pages below as I replace them with real car notes:
-  - [[Example doc 01]]
+- Browse the main categories below to see what I'm building out.
 
 ## Main Categories
 
