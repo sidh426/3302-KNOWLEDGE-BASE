@@ -12,6 +12,7 @@ I've been fascinated by cars since I was a child, and today I drive a BMW 4 Seri
 ## Explore
 
 - Read more [[about|about me]] and why I started this project.
+- See my [[org-system-analysis|analysis of Wikipedia's car articles]], which shaped how I organize this site.
 - Browse the main categories below to see what I'm building out.
 
 ## Main Categories
