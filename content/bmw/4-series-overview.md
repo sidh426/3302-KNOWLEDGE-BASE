@@ -1,7 +1,7 @@
 ---
 title: BMW 4 Series Overview
 ---
-![[440i-gran-coupe.jpg|My 2016 BMW 440i Gran Coupe in Mineral Grey Metallic, parked at the end of a long tree-lined drive in Houston with the rear door open]]
+![[assets/440i-gran-coupe.jpg|My 2016 BMW 440i Gran Coupe in Mineral Grey Metallic, parked at the end of a long tree-lined drive in Houston with the rear door open]]
 
 *My own 440i Gran Coupe in Mineral Grey Metallic.*
 

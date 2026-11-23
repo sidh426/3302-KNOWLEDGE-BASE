@@ -20,6 +20,12 @@ The first 4 Series was built on the same platform as the F30 3 Series. The coupe
 
 In 2016 the 435i's N55 engine gave way to the B58 in the 440i, which is why a 2016 440i is an interesting year to own (see [[engines-n54-n55-b58|BMW Turbo Inline-6 Engines]]). BMW also gave the car a mid-generation refresh, which helps explain why earlier and later cars look slightly different.
 
+### The 2017 brochure
+
+BMW's own 2017 UK brochure for the 4 Series Coupe, Gran Coupe, and Convertible shows the lineup right after the mid-generation refresh. It's embedded below, and you can also [[assets/bmw-4-series-brochure-2017-uk.pdf|open the PDF directly]].
+
+![[assets/bmw-4-series-brochure-2017-uk.pdf]]
+
 ## Second generation: G-series (2020 onward)
 
 BMW launched the redesigned 4 Series coupe in 2020, along with the G23 convertible, and the G26 Gran Coupe followed in 2021. The most obvious change is the huge vertical kidney grille, which people either love or really don't. The electric BMW i4 uses the G26 Gran Coupe body, so the 4 Series name now covers both gas and electric cars.
